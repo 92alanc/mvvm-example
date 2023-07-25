@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "name": "Golzão quadrado",
+      "make": "Volkswagen",
+      "year": 1980
+    },
+    {
+      "name": "Uno com escada",
+      "make": "FIAT",
+      "year": 1993
+    },
+    {
+      "name": "Escort rebaixado",
+      "make": "Ford",
+      "year": 1996
+    },
+    {
+      "name": "Kadett tubarão",
+      "make": "Chevrolet",
+      "year": 1994
+    }
+  ]
+}
