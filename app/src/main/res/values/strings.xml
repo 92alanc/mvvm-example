@@ -2,4 +2,6 @@
     <string name="app_name">Exemplo MVVM</string>
     <string name="message_network_error">Ta com o cabo de rede conectado? Desliga e liga o modem</string>
     <string name="message_generic_error">Deu ruim em alguma coisa ae…</string>
+    <string name="exit_app">Sair do app</string>
+    <string name="try_again">Tentar de novo</string>
 </resources>

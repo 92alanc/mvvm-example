@@ -24,7 +24,7 @@ internal class CarRepositoryImpl @Inject constructor(
                 val cars = localDataSource.getCars()
                 CarListResult.Success(cars)
             }.getOrElse {
-                when (remoteError) {
+                when (remoteError.cause) {
                     is IOException -> CarListResult.NetworkError
                     else -> CarListResult.GenericError
                 }
